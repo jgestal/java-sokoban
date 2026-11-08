@@ -1,0 +1,17 @@
+Java Sokoban
+Copyright (c) 2025-2026 Juan Gestal
+
+The source code is licensed under the MIT License (see LICENSE).
+
+-------------------------------------------------------------------------------
+Third-party content NOT covered by the MIT license above
+-------------------------------------------------------------------------------
+
+* src/resources/levels/levels.txt
+  "Microban" (155 puzzles, revised April 2000) by David W. Skinner.
+  Redistributed with author acknowledgement, as permitted by the author.
+  See src/resources/levels/CREDITS.md.
+
+* .claude/skills/*
+  From https://github.com/decebals/claude-code-java (MIT License).
+  See .claude/skills/LICENSE-claude-code-java.

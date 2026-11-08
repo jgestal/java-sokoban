@@ -1,0 +1,12 @@
+# Compilación
+build/
+dist/
+
+# IDE / sistema
+.DS_Store
+.idea/
+*.iml
+nbproject/private/
+
+# Copias locales
+backup/
